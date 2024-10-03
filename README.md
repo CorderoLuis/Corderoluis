@@ -14,4 +14,4 @@ Proficient in Python, MySQL, Machine Learning, Streamlit.
 
 Adaptable to working in teams, with strong principles of collaboration, effective communication, research capabilities, problem-solving orientation, goal achievement, and attention to detail.
 
-Experience in Sales Administration and Management, Data Management, Purchasing, and Inventory Control.
+Experience in Sales Administration and Management, Data Management, Inventory, and Inventory Control.
