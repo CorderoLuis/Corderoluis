@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 Soy Luis Cordero
 
 Científico de datos & Inteligencia Artificial, certificado de Hack a Boss, Analista de Datos Certificado de Google en Coursera e-learning. Licenciado en Administración con mención en Gerencia, Técnico Universitario en Administración Industrial con mención en Almacenamiento y distribución. 
 
